@@ -4,7 +4,7 @@ CSSS Git Tutorial
 ## What is Git?
 Git is a *Version Control Software* that allows you to save and maintain a history of your work. You can also revert to previous stages of your history, and make multiple branches of that history for experimentation.
 
-Git not is great for projects that have multiple contributors, because the history of all contributions is transparent.
+Git is GREAT for projects that have multiple contributors, because the history of all contributions is transparent.
 
 We recommend you to follow [this guide](https://pcottle.github.io/learnGitBranching)
 and complete the first three tasks before following with the
@@ -88,8 +88,12 @@ direction for philosophical/political reasons, or;
 2. Making a copy of a project on Github.
 
 ### Cloning your Fork
+<<<<<<< HEAD
 Open the terminal. We're now going to clone the repository
 you just forked.
+=======
+Open terminal. We're now going to clone the fork repository.
+>>>>>>> branch_B_with_conflict
 
 *Cloning* is the process of copying a remote repository (e.g. a repository on Github)
 to your machine.
