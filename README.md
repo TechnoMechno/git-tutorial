@@ -2,7 +2,8 @@ CSSS Git Tutorial
 =================
 
 ## What is Git?
-Gigity
+Gigity hohohohohohoho
+this is a new branch
 
 Git is a *Version Control Software* that allows you to save and maintain a history of your work. You can also revert to previous stages of your history, and make multiple branches of that history for experimentation.
 
